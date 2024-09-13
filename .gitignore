@@ -5,3 +5,4 @@
 *.vos
 *.vscode
 *.d
+.DS_Store
